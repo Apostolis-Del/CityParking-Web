@@ -1,3 +1,3 @@
 # CityParking-Web
 CityParking is a parking app that locates free parking seats in the city of Thessaloniki.
-!(image)[https://imgur.com/vEV02Mi]
+![Imgur Image](https://imgur.com/vEV02Mi)
